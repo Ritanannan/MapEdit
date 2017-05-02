@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>chest/Chest.obj</file>
+        <file>chest/diffuse.webp</file>
+    </qresource>
+</RCC>

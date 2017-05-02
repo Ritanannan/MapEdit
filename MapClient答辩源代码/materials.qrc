@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>BasicCamera.qml</file>
+        <file>PlaneEntity.qml</file>
+        <file>SortedForwardRenderer.qml</file>
+        <file>Barrel.qml</file>
+        <file>RenderableEntity.qml</file>
+        <file>Chest.qml</file>
+        <file>HousePlant.qml</file>
+        <file>TrefoilKnot.qml</file>
+        <file>LogView.qml</file>
+        <file>PropertyView.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
